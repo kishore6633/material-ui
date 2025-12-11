@@ -8,7 +8,7 @@ export default function Footer() {
         backgroundColor: "#696868ff",
         color: "#f5e4e4ff",
         fontSize: "14px",
-         position: "fixed",
+         position: "relative",
         bottom: 0,
         left: 0,
         width: "100%",
